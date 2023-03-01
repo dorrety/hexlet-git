@@ -1,1 +1,1 @@
-Hellow, Hexlet!
+Hello, Hexlet!
